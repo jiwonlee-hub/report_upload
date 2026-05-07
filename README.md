@@ -1,7 +1,6 @@
 # report_upload
 잡다한
 
-
 1. 인간유전체사업(Human Genome Project, HGP)의 추진 배경과 주요 성과를 간략히 기술
 하고, 이를 토대로 발전한 유전체학(genomics)의 정의와 학문적 의의를 설명하시오. 또한 다
 중오믹스(multi-omics)의 개념을 전사체학(transcriptomics), 단백체학(proteomics), 대사체학
