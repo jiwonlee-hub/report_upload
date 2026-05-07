@@ -1,11 +1,12 @@
 # report_upload
 잡다한
 
-1. 인간유전체사업(Human Genome Project, HGP)의 추진 배경과 주요 성과를 간략히 기술
+1.인간유전체사업(Human Genome Project, HGP)의 추진 배경과 주요 성과를 간략히 기술
 하고, 이를 토대로 발전한 유전체학(genomics)의 정의와 학문적 의의를 설명하시오. 또한 다
 중오믹스(multi-omics)의 개념을 전사체학(transcriptomics), 단백체학(proteomics), 대사체학
 (metabolomics) 등 주요 구성 요소를 포함하여 서술하고, 단일 오믹스 분석과 비교했을 때 
 다중오믹스 통합 분석이 갖는 강점과 응용적 가치를 논하시오. (20점)
+[00](./KakaoTalk_20260507_142507951.jpg)
 
 
 2.차세대 염기서열분석(Next-generation sequencing, NGS) 기술의 기본 원리를 1세대 
